@@ -37,13 +37,6 @@ export const Header = () => {
         <div className="bg-zinc-900 hover:bg-zinc-800 cursor-pointer rounded-full w-10 h-10 flex items-center justify-center ml-2">
           <Microphone size={24} weight="fill" color="#FFF" />
         </div>
-
-        {/* <Microphone
-        size={40}
-        weight="light"
-        color="#FFF"
-        className="hover:bg-zinc-800 bg-zinc-900 cursor-pointer rounded-full p-2 transition-all"
-      /> */}
       </div>
 
       <div className="flex flex-row gap-2 items-center justify-center">

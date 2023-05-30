@@ -31,7 +31,7 @@ export const Item = ({ Icon, title, pathName }: ItemsProps) => {
         className="mr-6 transition-all"
       />
 
-      <span className="text-white text-sm font-medium">{title}</span>
+      <span className="text-white text-sm font-normal">{title}</span>
     </a>
   );
 };
